@@ -2,7 +2,7 @@
 // número de 1 até 10. (proíbido o uso de foreach ou qualquer outro tipo,
 //  é permitido somente o uso de for)
 
-public static class Atv4
+public static class Atv4for
 {
     public static void Executar()
     {

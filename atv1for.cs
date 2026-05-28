@@ -2,7 +2,7 @@
 // o uso de foreach ou qualquer outro tipo, é permitido somente o uso de for)
 
 
-public static class Atv1
+public static class Atv1for
 {
     public static void Executar()
     {
